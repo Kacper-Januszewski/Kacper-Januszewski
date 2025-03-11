@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliendrb
+- 👋 Hi, I’m @Kacper-Januszewski
 - 🌱 I’m currently learning web stack
 - 💞️ I’m looking to collaborate on webAPI or DB solutions
 - ⚡ Fun fact: Even though my life directed me towards CS, I am also a videographer and a creative soul
